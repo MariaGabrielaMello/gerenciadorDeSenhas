@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650466181628",
+    "project_id": "appsenhas-3a81e",
+    "storage_bucket": "appsenhas-3a81e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650466181628:android:2f30286288bf0ce87fb279",
+        "android_client_info": {
+          "package_name": "com.dsm4.appSenhas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaxP47u4fViixDiwbYq-jtc-ZLBgZFatk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
