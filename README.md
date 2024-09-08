@@ -1,50 +1,68 @@
-# Welcome to your Expo app 👋
+<span id="topo">
+<h1 align='center'>
+Gerenciador de Senhas
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Trabalho APP Mobile - 4º SEM DSM - 2024
 
-## Get started
+</h1>
 
-1. Install dependencies
+<h1 align='center'> :keyboard:  :keyboard: </h1>
 
-   ```bash
-   npm install
-   ```
 
-2. Start the app
+## :dart: Objetivo
+<p align='justify'>
+    O objetivo deste aplicativo é fornecer uma solução segura, eficiente e intuitiva para o armazenamento e gerenciamento de senhas. Ele garante a proteção das informações de login através de criptografia de ponta a ponta, além de oferecer ferramentas como geração de senhas fortes, autenticação multifator (MFA) e monitoramento de vazamentos. O aplicativo facilita a organização das senhas por categorias, permitindo a importação e exportação segura de dados, e assegura a compatibilidade multiplataforma, oferecendo acesso sincronizado em diversos dispositivos. Com funcionalidades de recuperação de conta e notificações de segurança, o aplicativo visa maximizar a proteção e a usabilidade, ajudando os usuários a manterem suas informações sempre seguras e organizadas.
+</p>
 
-   ```bash
-    npx expo start
-   ```
+<span id='relatorios'>
 
-In the output, you'll find options to open the app in a
+## :pushpin: Relatórios pro sprint
+Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando em "Ver entrega". 
+| Sprint |  Entrega   |            Status           | 
+|:------:|:----------:|:---------------------------:|
+| 01     | 09/09/2024 | :construction: Em Andamento | 
+| 02     | 04/10/2024 | Não iniciada | 
+| 03     | 25/10/2024 | Não iniciada | 
+| 04     | 18/11/2024 | Não iniciada | 
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+→ [Voltar ao topo](#topo)
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+<span id='backlog'>
 
-## Get a fresh project
+## :clipboard: Requisitos Funcionais
+:pushpin: Cadastro e Login   
+:pushpin: Autenticação via Firebase    
+:pushpin: Criação de Senhas Fortes  
+:pushpin: Autenticação Multifator (MFA)  
+:pushpin: Recuperação de Conta  
+:pushpin: Adicionar Senhas    
+:pushpin: Visualização de Senhas    
+:pushpin: Edição e Exclusão de Senhas    
+:pushpin: Importação/Exportação de Senhas    
+:pushpin: Autenticação Biométrica  
+:pushpin: Monitoramento de Vazamentos de dados
+:pushpin: Organização por Categorias
+:pushpin: Funcionalidade de Arrastar e Soltar
+:pushpin: Troca de Tema Claro/Escuro
 
-When you're ready, run:
+→ [Voltar ao topo](#topo)
 
-```bash
-npm run reset-project
-```
+## :clipboard: Requisitos NÃO Funcionais
+:pushpin: Escalabilidade: A arquitetura do sistema deve ser escalável
+:pushpin: Usabilidade: A interface deve ser intuitiva  
+:pushpin: O sistema deve funcionar em navegadores modernos 
+:pushpin: A troca de tema deve ocorrer sem recarregar a página e de forma instantânea.   
+:pushpin: Garantir que os dados exportados estejam protegidos com criptografia de ponta a ponta    
+:pushpin: A senha deve ser criptografada antes de ser enviada ao servidor.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+##  Épicos
 
-## Learn more
+LINK
 
-To learn more about developing your project with Expo, look at the following resources:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## Backlog total
 
-## Join the community
+LINK
+LINK
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+→ [Voltar ao topo](#topo)
